@@ -1,0 +1,13 @@
+# Core
+python-dotenv
+requests
+
+# AI
+openai
+
+# Vector DB
+faiss-cpu
+numpy
+
+# Web UI
+streamlit

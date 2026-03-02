@@ -1,0 +1,35 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Project specific
+faiss_index.bin
+faiss_docs.pkl
+chroma_db/
+.streamlit/
+
+# Environment variables
+.env
+
+# Temporary files
+uploads/
+outputs/
+*.zip
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
